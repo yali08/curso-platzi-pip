@@ -6,5 +6,3 @@ para correr el juego debes seguir las siguentes instrucciones desde la terminal:
 cd game
 python main.py
 ```
-
-
